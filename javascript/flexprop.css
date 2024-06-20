@@ -1,0 +1,28 @@
+#cont
+{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+    /*align-content: center;*/
+    align-items: start;
+    height:500px;
+    width:600px;
+    border:2px solid black
+}
+div{
+    width:200px ;
+    height: 100px;
+    border: 1px solid black;
+}
+#one{
+    background-color: red;
+}
+#two{
+    background-color:yellow;
+}
+#three{
+    background-color:green;
+}
+#four{
+    background-color:blue;
+}
